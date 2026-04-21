@@ -1,3 +1,6 @@
+# Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 # Day 1 log
 ## Morning (7am-11am)
 - [ ] Drink water
