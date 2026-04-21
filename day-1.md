@@ -5,3 +5,10 @@
 - [ ] Charge Laptop
 ## Noon (12am-4pm)
 ## Night (5pm-9pm)
+## Review 
+```C
+void main(something)
+{
+  printf("tut");
+}
+```
